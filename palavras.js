@@ -1,0 +1,22 @@
+const listaPalavras = [
+  { palavra: "algoritmo", dica: "Sequencia de passos para resolver um problema" },
+  { palavra: "backup", dica: "Copia de seguranca de dados" },
+  { palavra: "servidor", dica: "Computador que fornece servicos a outros" },
+  { palavra: "variavel", dica: "Espaco na memoria para guardar um valor" },
+  { palavra: "compilador", dica: "Traduz o codigo para linguagem de maquina" },
+  { palavra: "framework", dica: "Conjunto de ferramentas para facilitar o desenvolvimento" },
+  { palavra: "banco", dica: "Local onde se armazena grandes volumes de dados" },
+  { palavra: "roteador", dica: "Dispositivo que encaminha pacotes de rede" },
+  { palavra: "firewall", dica: "Sistema de seguranca que monitora o trafego de rede" },
+  { palavra: "debugar", dica: "Processo de encontrar e corrigir erros no codigo" },
+  { palavra: "frontend", dica: "A parte do sistema que o usuario interage" },
+  { palavra: "backend", dica: "A parte que cuida da logica e do servidor" },
+  { palavra: "nuvem", dica: "Armazenamento e processamento remoto de dados" },
+  { palavra: "criptografia", dica: "Tecnica para proteger dados com codigos" },
+  { palavra: "requisicao", dica: "Pedido enviado de um cliente para um servidor" },
+  { palavra: "internet", dica: "A rede mundial de computadores" },
+  { palavra: "python", dica: "Linguagem de programacao famosa pela simplicidade" },
+  { palavra: "bitcoin", dica: "A primeira moeda digital descentralizada" },
+  { palavra: "hardware", dica: "A parte fisica do computador" },
+  { palavra: "software", dica: "Os programas e sistemas do computador" }
+];
